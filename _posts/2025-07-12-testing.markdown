@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Testing"
+date:   2025-07-12 20:54:54 -0700
+categories: latex testing
+---
+
+**The Cauchy-Schwarz Inequality**\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
